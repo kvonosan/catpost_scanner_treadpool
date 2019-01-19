@@ -1,0 +1,35 @@
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\CatPost Scanner.exe.config
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\CatPost Scanner.exe
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\CatPost Scanner.pdb
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\Awesomium.Core.dll
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\Awesomium.Windows.Controls.dll
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\MySql.Data.dll
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\MySql.Web.dll
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\Newtonsoft.Json.dll
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\Awesomium.Core.xml
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\Awesomium.Windows.Controls.xml
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\Newtonsoft.Json.xml
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\awesomium.dll
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\icudt.dll
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\avcodec-53.dll
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\avformat-53.dll
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\avutil-51.dll
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\libEGL.dll
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\libGLESv2.dll
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\awesomium_process
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\inspector.pak
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\xinput9_1_0.dll
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\bin\x86\Release\pdf_js.pak
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\obj\x86\Release\CatPost Scanner.csprojResolveAssemblyReference.cache
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\obj\x86\Release\MainWindow.g.cs
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\obj\x86\Release\Window1.g.cs
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\obj\x86\Release\App.g.cs
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\obj\x86\Release\CatPost Scanner_MarkupCompile.cache
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\obj\x86\Release\CatPost Scanner_MarkupCompile.lref
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\obj\x86\Release\MainWindow.baml
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\obj\x86\Release\Window1.baml
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\obj\x86\Release\CatPost Scanner.g.resources
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\obj\x86\Release\CatPost_Scanner.Properties.Resources.resources
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\obj\x86\Release\CatPost Scanner.csproj.GenerateResource.Cache
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\obj\x86\Release\CatPost Scanner.exe
+C:\Users\Виктор\documents\visual studio 2015\Projects\CatPost Scanner\CatPost Scanner\obj\x86\Release\CatPost Scanner.pdb
